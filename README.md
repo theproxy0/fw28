@@ -1,2 +1,2 @@
 # fw28
-Tenways sw102 firmware 28 km
+Original sw102 firmware provided by Tenways and sw102 28 km
